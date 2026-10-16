@@ -1,0 +1,11 @@
+# Versions used for the mini-run (Python 3.11.4, Windows 11, CPU only).
+# Install CPU PyTorch first:
+#   pip install torch==2.14.1 torchaudio==2.11.0 --index-url https://download.pytorch.org/whl/cpu
+pyannote.audio==4.0.7
+pyannote.core==6.0.1
+pyannote.database==6.1.1
+pyannote.metrics==4.1
+pyannote.pipeline==4.0.0
+huggingface_hub==2.2.0
+soundfile==0.14.0
+numpy==2.4.6

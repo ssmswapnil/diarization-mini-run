@@ -1,0 +1,27 @@
+{
+  "python": "3.11.4",
+  "os": "Windows-10-10.0.22631-SP0",
+  "device": "cpu",
+  "pyannote.audio": "4.0.7",
+  "torch": "2.14.1+cpu",
+  "data": "AMI test set, Array1-01 (single distant mic) audio, only_words references",
+  "meetings": [
+    "ES2004a",
+    "TS3003a",
+    "EN2002a"
+  ],
+  "setups": [
+    {
+      "name": "community1_farfield",
+      "model": "pyannote/speaker-diarization-community-1",
+      "speaker_count_given": false,
+      "other_settings": "defaults"
+    },
+    {
+      "name": "legacy31_farfield",
+      "model": "pyannote/speaker-diarization-3.1",
+      "speaker_count_given": false,
+      "other_settings": "defaults"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+setup,meeting,audio_seconds,processing_seconds,real_time_factor
+community1,ES2004a,1049.4,898.6,0.856
+community1,TS3003a,1505.6,1208.1,0.802
+community1,EN2002a,2142.7,1711.8,0.799
+community1_oracle,ES2004a,1049.4,831.8,0.793
+community1_oracle,TS3003a,1505.6,1194.2,0.793
+community1_oracle,EN2002a,2142.7,1788.8,0.835
+legacy31,ES2004a,1049.4,865.4,0.825
+legacy31,TS3003a,1505.6,1278.9,0.849
+legacy31,EN2002a,2142.7,1768.3,0.825
+community1_farfield,ES2004a,1049.4,921.1,0.878
+community1_farfield,TS3003a,1505.6,1402.7,0.932
+community1_farfield,EN2002a,2142.7,2075.1,0.968
+legacy31_farfield,ES2004a,1049.4,920.8,0.877
+legacy31_farfield,TS3003a,1505.6,1235.5,0.821
+legacy31_farfield,EN2002a,2142.7,1770.1,0.826

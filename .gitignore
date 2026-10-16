@@ -1,0 +1,23 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# AMI audio (large; download it with the commands in README.md)
+audio/
+audio_far/
+*.wav
+
+# Secrets and local settings
+.env
+*.token
+
+# OS / editor files
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.log

@@ -1,0 +1,6 @@
+setup,meetings_scored,DER_main_%,DER_collar0.25_%,DER_no_overlap_%,JER_%,DER_in_overlap_%
+community1,3,20.2,13.7,12.9,29.5,34.5
+community1_farfield,3,24.7,17.9,18.5,43.2,36.9
+community1_oracle,3,20.0,13.6,12.8,29.1,34.3
+legacy31,3,21.6,14.9,14.4,37.9,35.8
+legacy31_farfield,3,27.3,19.7,19.4,44.0,42.9
